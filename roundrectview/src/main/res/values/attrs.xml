@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundRectView">
+        <attr name="rrv_bg_color" format="color|reference" />
+        <attr name="rrv_round" format="dimension|reference" />
+        <attr name="rrv_border_color" format="color|reference" />
+        <attr name="rrv_border_width" format="dimension|reference" />
+    </declare-styleable>
+</resources>
