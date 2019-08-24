@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <ysn.com.view.roundrect.RoundRectView
+        android:id="@+id/main_activity_round_rect_view"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_gravity="center"
